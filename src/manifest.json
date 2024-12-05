@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.ckant.joplin-plugin-editor-themes",
 	"app_min_version": "3.0",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Editor Themes",
 	"description": "Editor Themes",
 	"author": "Chris Kant",
