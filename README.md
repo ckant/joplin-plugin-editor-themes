@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center"><a href="https://joplinapp.org">Joplin plugin</a> that applies editor themes</h4>
+<h4 align="center"><a href="https://joplinapp.org">Joplin plugin</a> that applies 40+ editor themes</h4>
 
 <p align="center">
   <a href="https://discourse.joplinapp.org/t/plugin-editor-themes">
@@ -24,25 +24,24 @@
 
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#screenshots">Screenshots</a> •
   <a href="#themes">Themes</a> •
+  <a href="#screenshots">Screenshots</a> •
   <a href="#download">Download</a> •
   <a href="#settings">Settings</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
 
-![preview](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/preview.png)
+<div align="center"><img src="https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/preview.png" alt="preview" width="95%"></div>
 
 ## Features
 
-- Applies editor themes from [react-codemirror](https://github.com/uiwjs/react-codemirror)
-
-## Screenshots
-
-![settings](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/settings.png)
+- Applies 40+ editor themes from [react-codemirror](https://github.com/uiwjs/react-codemirror), including VSCode, GitHub, and Sublime
 
 ## Themes
+
+<details>
+<summary>Expand full list of themes</summary>
 
 ### [Abcdef](https://uiwjs.github.io/react-codemirror/#/theme/data/abcdef)
 
@@ -223,6 +222,13 @@
 ### [Xcode Light](https://uiwjs.github.io/react-codemirror/#/theme/data/xcode/light)
 
 ![xcodeLight](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/xcodeLight.png)
+
+</details>
+
+## Screenshots
+
+![editor](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/editor.png)
+![settings](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/settings.png)
 
 ## Download
 

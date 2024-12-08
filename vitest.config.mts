@@ -12,10 +12,8 @@ const testConfig: ViteUserConfig = {
     environment: "happy-dom",
     coverage: {
       include: ["src/**/*"],
-
-      // Exclude files that contain only type definitions which show up
-      // as having 0% coverage for some reason
       exclude: [
+        "src/cm-extension/Extensions.ts",
         "src/cm-extension/model/Config.ts",
         "src/cm-extension-ipc/model/*",
         "src/joplin-plugin/settings/PluginSettings.ts",
