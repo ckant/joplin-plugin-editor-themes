@@ -1,7 +1,7 @@
 {
   "name": "joplin-plugin-editor-themes",
   "description": "Joplin plugin that applies editor themes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ckant/joplin-plugin-editor-themes.git"

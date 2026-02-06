@@ -5,7 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased](https://github.com/ckant/joplin-plugin-editor-themes/compare/v1.0.2...HEAD)
+## [Unreleased](https://github.com/ckant/joplin-plugin-editor-themes/compare/v1.0.3...HEAD)
+
+## [1.0.3](https://github.com/ckant/joplin-plugin-editor-themes/compare/v1.0.2...v1.0.3) - 2026-02-05
+
+### Added
+
+- 28 new and alternate themes from [@fsegurai/codemirror-themes](https://github.com/fsegurai/codemirror-themes)
 
 ## [1.0.2](https://github.com/ckant/joplin-plugin-editor-themes/compare/v1.0.1...v1.0.2) - 2024-12-05
 
