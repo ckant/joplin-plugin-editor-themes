@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center"><a href="https://joplinapp.org">Joplin plugin</a> that applies 40+ editor themes</h4>
+<h4 align="center"><a href="https://joplinapp.org">Joplin plugin</a> that applies 70+ editor themes</h4>
 
 <p align="center">
   <a href="https://discourse.joplinapp.org/t/plugin-editor-themes">
@@ -36,7 +36,7 @@
 
 ## Features
 
-- Applies 40+ editor themes from [react-codemirror](https://github.com/uiwjs/react-codemirror), including VSCode, GitHub, and Sublime
+- Applies 70+ editor themes from [react-codemirror](https://github.com/uiwjs/react-codemirror) and [@fsegurai/codemirror-themes](https://github.com/fsegurai/codemirror-themes), including VSCode, GitHub, and Sublime
 
 ## Themes
 
@@ -47,17 +47,33 @@
 
 ![abcdef](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/abcdef.png)
 
+### [Abcdef Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Abyss](https://uiwjs.github.io/react-codemirror/#/theme/data/abyss)
 
 ![abyss](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/abyss.png)
+
+### [Abyss Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Android Studio](https://uiwjs.github.io/react-codemirror/#/theme/data/androidstudio)
 
 ![androidstudio](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/androidstudio.png)
 
+### [Android Studio Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Andromeda](https://uiwjs.github.io/react-codemirror/#/theme/data/andromeda)
 
 ![andromeda](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/andromeda.png)
+
+### [Andromeda Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Atom One](https://uiwjs.github.io/react-codemirror/#/theme/data/atomone)
 
@@ -71,9 +87,17 @@
 
 ![basicDark](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/basicDark.png)
 
+### [Basic Dark Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Basic Light](https://uiwjs.github.io/react-codemirror/#/theme/data/basic/light)
 
 ![basicLight](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/basicLight.png)
+
+### [Basic Light Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [BBEdit](https://uiwjs.github.io/react-codemirror/#/theme/data/bbedit)
 
@@ -82,6 +106,14 @@
 ### [Bespin](https://uiwjs.github.io/react-codemirror/#/theme/data/bespin)
 
 ![bespin](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/bespin.png)
+
+### [Catppuccin Mocha](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
+### [Cobalt 2](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Console Dark](https://uiwjs.github.io/react-codemirror/#/theme/data/console/dark)
 
@@ -115,21 +147,49 @@
 
 ![eclipse](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/eclipse.png)
 
+### [Forest](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [GitHub Dark](https://uiwjs.github.io/react-codemirror/#/theme/data/github/dark)
 
 ![githubDark](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/githubDark.png)
+
+### [GitHub Dark Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [GitHub Light](https://uiwjs.github.io/react-codemirror/#/theme/data/github/light)
 
 ![githubLight](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/githubLight.png)
 
+### [GitHub Light Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Gruvbox Dark](https://uiwjs.github.io/react-codemirror/#/theme/data/gruvbox/dark)
 
 ![gruvboxDark](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/gruvboxDark.png)
 
+### [GruvBox Dark Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Gruvbox Light](https://uiwjs.github.io/react-codemirror/#/theme/data/gruvbox/light)
 
 ![gruvboxLight](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/gruvboxLight.png)
+
+### [Gruvbox Light Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
+### [High Contrast Dark](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
+### [High Contrast Light](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Kimbie](https://uiwjs.github.io/react-codemirror/#/theme/data/kimbie)
 
@@ -139,13 +199,25 @@
 
 ![materialDark](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/materialDark.png)
 
+### [Material Dark Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Material Light](https://uiwjs.github.io/react-codemirror/#/theme/data/material/light)
 
 ![materialLight](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/materialLight.png)
 
+### [Material Light Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Monokai](https://uiwjs.github.io/react-codemirror/#/theme/data/monokai)
 
 ![monokai](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/monokai.png)
+
+### [Monokai Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Monokai Dimmed](https://uiwjs.github.io/react-codemirror/#/theme/data/monokai-dimmed)
 
@@ -159,9 +231,17 @@
 
 ![nord](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/nord.png)
 
+### [Nord Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Okaidia](https://uiwjs.github.io/react-codemirror/#/theme/data/okaidia)
 
 ![okaidia](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/okaidia.png)
+
+### [Palenight](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Quiet Light](https://uiwjs.github.io/react-codemirror/#/theme/data/quietlight)
 
@@ -175,13 +255,25 @@
 
 ![solarizedDark](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/solarizedDark.png)
 
+### [Solarized Dark Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Solarized Light](https://uiwjs.github.io/react-codemirror/#/theme/data/solarized/light)
 
 ![solarizedLight](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/solarizedLight.png)
 
+### [Solarized Light Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Sublime](https://uiwjs.github.io/react-codemirror/#/theme/data/sublime)
 
 ![sublime](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/sublime.png)
+
+### [Synthwave84](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Tokyo Night](https://uiwjs.github.io/react-codemirror/#/theme/data/tokyo-night)
 
@@ -191,21 +283,41 @@
 
 ![tokyoNightDay](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/tokyoNightDay.png)
 
+### [Tokyo Night Day Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [Tokyo Night Storm](https://uiwjs.github.io/react-codemirror/#/theme/data/tokyo-night-storm)
 
 ![tokyoNightStorm](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/tokyoNightStorm.png)
+
+### [Tokyo Night Storm Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [Tomorrow Night Blue](https://uiwjs.github.io/react-codemirror/#/theme/data/tomorrow-night-blue)
 
 ![tomorrowNightBlue](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/tomorrowNightBlue.png)
 
+### [Volcano](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [VSCode Dark](https://uiwjs.github.io/react-codemirror/#/theme/data/vscode/dark)
 
 ![vscodeDark](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/vscodeDark.png)
 
+### [VSCode Dark Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
+
 ### [VSCode Light](https://uiwjs.github.io/react-codemirror/#/theme/data/vscode/light)
 
 ![vscodeLight](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/vscodeLight.png)
+
+### [VSCode Light Alt](https://github.com/fsegurai/codemirror-themes)
+
+Screenshot WIP
 
 ### [White Dark](https://uiwjs.github.io/react-codemirror/#/theme/data/white/dark)
 
@@ -243,6 +355,7 @@ Search for `Editor Themes` in the Joplin settings under the `Plugins` section.
 ## Credits
 
 - [react-codemirror](https://github.com/uiwjs/react-codemirror)
+- [@fsegurai/codemirror-themes](https://github.com/fsegurai/codemirror-themes)
 - [Joplin](https://joplinapp.org)
 - [CodeMirror](http://codemirror.net/)
 

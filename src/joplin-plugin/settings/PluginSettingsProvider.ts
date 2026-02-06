@@ -41,15 +41,3 @@ export class PluginSettingsProvider {
     return (await this.joplinSettings.value(name)) as T
   }
 }
-
-// function asStringArray(value: string): readonly string[] {
-//   return trimAll(split(value))
-// }
-
-// function split(value: string): readonly string[] {
-//   return value.split(",")
-// }
-//
-// function trimAll(value: readonly string[]): readonly string[] {
-//   return value.map((it) => it.trim())
-// }
