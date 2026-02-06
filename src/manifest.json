@@ -17,5 +17,8 @@
 		"32": "media/logo32.png",
 		"48": "media/logo48.png",
 		"128": "media/logo128.png"
+	},
+	"promo_tile": {
+		"src": "media/promo.png"
 	}
 }
