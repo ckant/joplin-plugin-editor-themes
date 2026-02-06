@@ -1,3 +1,5 @@
+import { oneDark } from "@codemirror/theme-one-dark"
+
 import {
   abcdef as abcdef_alt,
   abyss as abyss_alt,
@@ -81,7 +83,7 @@ import {
  */
 export namespace Extensions {
   /**
-   * Themes from `react-codemirror` and `@fsegurai/codemirror-themes`.
+   * Themes from `react-codemirror`, `@fsegurai/codemirror-themes`, and `@codemirror/theme-one-dark`.
    *
    * @see EditorView.theme
    */
@@ -135,6 +137,7 @@ export namespace Extensions {
     nord,
     nord_alt,
     okaidia,
+    oneDark,
     palenight,
     quietlight,
     red,

@@ -57,6 +57,7 @@ export interface PluginSettings {
     | "nord"
     | "nord_alt"
     | "okaidia"
+    | "oneDark"
     | "palenight"
     | "quietlight"
     | "red"

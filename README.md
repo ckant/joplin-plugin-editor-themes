@@ -36,7 +36,7 @@
 
 ## Features
 
-- Applies 70+ editor themes from [react-codemirror](https://github.com/uiwjs/react-codemirror) and [@fsegurai/codemirror-themes](https://github.com/fsegurai/codemirror-themes), including VSCode, GitHub, and Sublime
+- Applies 70+ editor themes from [react-codemirror](https://github.com/uiwjs/react-codemirror), [@fsegurai/codemirror-themes](https://github.com/fsegurai/codemirror-themes), and [@codemirror/theme-one-dark](https://github.com/codemirror/theme-one-dark), including VSCode, GitHub, Sublime, and One Dark
 
 ## Themes
 
@@ -239,6 +239,10 @@ Screenshot WIP
 
 ![okaidia](https://raw.githubusercontent.com/ckant/joplin-plugin-editor-themes/main/media/themes/okaidia.png)
 
+### [One Dark](https://github.com/codemirror/theme-one-dark)
+
+Screenshot WIP
+
 ### [Palenight](https://github.com/fsegurai/codemirror-themes)
 
 Screenshot WIP
@@ -356,6 +360,7 @@ Search for `Editor Themes` in the Joplin settings under the `Plugins` section.
 
 - [react-codemirror](https://github.com/uiwjs/react-codemirror)
 - [@fsegurai/codemirror-themes](https://github.com/fsegurai/codemirror-themes)
+- [@codemirror/theme-one-dark](https://github.com/codemirror/theme-one-dark)
 - [Joplin](https://joplinapp.org)
 - [CodeMirror](http://codemirror.net/)
 

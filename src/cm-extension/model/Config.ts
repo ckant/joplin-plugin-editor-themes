@@ -52,6 +52,7 @@ export interface Config {
     | "nord"
     | "nord_alt"
     | "okaidia"
+    | "oneDark"
     | "palenight"
     | "quietlight"
     | "red"
