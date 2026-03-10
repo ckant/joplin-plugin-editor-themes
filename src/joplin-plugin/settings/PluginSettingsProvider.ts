@@ -28,12 +28,14 @@ export class PluginSettingsProvider {
     const rawSettings = await this.provideRawSettings()
     return {
       theme: rawSettings.theme,
+      themePrecedence: rawSettings.themePrecedence
     }
   }
 
   private async provideRawSettings(): Promise<RawPluginSettings> {
     return {
       theme: await this.getRawSetting("theme"),
+      themePrecedence: await this.getRawSetting("themePrecedence")
     }
   }
 

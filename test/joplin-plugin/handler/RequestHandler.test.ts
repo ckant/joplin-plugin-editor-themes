@@ -23,9 +23,9 @@ describe("RequestHandler", () => {
     })
 
     it("handles getSettings", async () => {
-      when(() => mockPluginSettingsProvider.provide()).thenResolve({ theme: "vscodeDark" })
+      when(() => mockPluginSettingsProvider.provide()).thenResolve({ theme: "vscodeDark", themePrecedence: "high" })
       await expect(pluginService.handle(GetSettingsRequest.of())).resolves.toStrictEqual(
-        GetSettingsResponse.of({ theme: "vscodeDark" }),
+        GetSettingsResponse.of({ theme: "vscodeDark", themePrecedence: "high" }),
       )
     })
   })
@@ -38,10 +38,10 @@ describe("RequestHandler", () => {
 
   describe("getSettings", () => {
     it("returns settings", async () => {
-      when(() => mockPluginSettingsProvider.provide()).thenResolve({ theme: "vscodeDark" })
+      when(() => mockPluginSettingsProvider.provide()).thenResolve({ theme: "vscodeDark", themePrecedence: "high" })
 
       await expect(pluginService.getSettings(GetSettingsRequest.of())).resolves.toStrictEqual(
-        GetSettingsResponse.of({ theme: "vscodeDark" }),
+        GetSettingsResponse.of({ theme: "vscodeDark", themePrecedence: "high" }),
       )
     })
   })

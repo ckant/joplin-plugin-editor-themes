@@ -7,6 +7,7 @@
  * @see Config
  */
 export interface PluginSettings {
+  readonly themePrecedence: "high" | "normal"
   readonly theme:
     | "abcdef"
     | "abcdef_alt"

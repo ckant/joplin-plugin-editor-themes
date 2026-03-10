@@ -352,9 +352,10 @@ Search for `Editor Themes` in the Joplin settings under the `Plugins` section.
 
 ## Settings
 
-| Setting | Options                                                                                  | Description                                      |
-|---------|------------------------------------------------------------------------------------------|--------------------------------------------------|
-| Theme   | [Themes](https://github.com/ckant/joplin-plugin-editor-themes?tab=readme-ov-file#themes) | Applies the given theme to the CodeMirror editor |
+| Setting          | Options                                                                                  | Description                                                   |
+|------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Theme            | [Themes](https://github.com/ckant/joplin-plugin-editor-themes?tab=readme-ov-file#themes) | Applies the given theme to the CodeMirror editor              |
+| Theme precedence | `"high"`, `"normal"`                                                                     | Sets the style priority (compared to Joplin's default styles) |
 
 ## Credits
 

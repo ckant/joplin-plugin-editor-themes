@@ -2,6 +2,7 @@
  * Configuration for {@link EditorThemes}.
  */
 export interface Config {
+  readonly themePrecedence: "high" | "normal"
   readonly theme:
     | "abcdef"
     | "abcdef_alt"

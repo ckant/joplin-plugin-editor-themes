@@ -61,7 +61,7 @@ describe("JoplinPluginClient", () => {
       const mockCall = mock<PluginRequestHandler>()
       when(() => mockCall<"ping">(PingRequest.of())).thenResolve(PingResponse.of())
       when(() => mockCall<"getSettings">(GetSettingsRequest.of())).thenResolve(
-        GetSettingsResponse.of({ theme: "vscodeDark" }),
+        GetSettingsResponse.of({ theme: "vscodeDark", themePrecedence: "high" }),
       )
 
       await expect(
@@ -69,7 +69,7 @@ describe("JoplinPluginClient", () => {
           call: mockCall,
           retrier: Retrier.create({ window: FakeWindow.create() }),
         }).getSettings(),
-      ).resolves.toStrictEqual({ theme: "vscodeDark" })
+      ).resolves.toStrictEqual({ theme: "vscodeDark", themePrecedence: "high" })
     })
   })
 })

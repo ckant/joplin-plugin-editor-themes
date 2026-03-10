@@ -97,6 +97,18 @@ export const PluginSettingSection = {
       label: "Theme",
       description: "Sets the editor theme",
     },
+    themePrecedence: {
+      type: SettingItemType.String,
+      public: true,
+      value: "high",
+      isEnum: true,
+      options: {
+        "high": "High",
+        "normal": "Normal",
+      },
+      label: "Theme precedence",
+      description: "Set to High to make theme take precedence over Joplin's default theme",
+    }
   },
 } as const satisfies ExtendedSettingSection<PluginSettings>
 

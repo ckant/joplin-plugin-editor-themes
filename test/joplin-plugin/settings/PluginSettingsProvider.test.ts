@@ -11,6 +11,7 @@ describe("PluginSettingsProvider", () => {
       const fakeJoplinSettings = FakeJoplinSettings.create({
         values: {
           theme: "vscodeDark",
+          themePrecedence: "high"
         },
       })
 
@@ -20,6 +21,7 @@ describe("PluginSettingsProvider", () => {
         }).provide(),
       ).resolves.toStrictEqual({
         theme: "vscodeDark",
+        themePrecedence: "high"
       } satisfies PluginSettings)
     })
   })
